@@ -99,8 +99,8 @@ elsif env == 'staging'
   
 else
   puts "********* DEPLOYING TO TEST *********"
-  set   :application, "pshp-rekry-erva"
-  set   :base_folder, "/Users/japesuut/Development/Gits/"
+  set   :application, "app test"
+  set   :base_folder, "/Users/some/"
   set   :deploy_to,   "#{base_folder}/#{application}"
   set   :asset_host,  "localhost:3000"
 end
