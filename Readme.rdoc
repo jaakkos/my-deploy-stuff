@@ -1,0 +1,8 @@
+= My Deployment Stuff
+Official URL: http://github.com/jaakkos/my-deploy-stuff/tree/master
+
+Jaakko Suutarla (http://jaakko.suutarla.com)
+
+== DESCRIPTION:
+
+Sample recipes for diffrent deployment situations
